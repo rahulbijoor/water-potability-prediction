@@ -33,5 +33,9 @@ The turbidity of water depends on the quantity of solid matter present in the su
 
 <h2>12. Potability:</h2>
 Indicates if water is safe for human consumption where 1 means Potable and 0 means Not potable.
+<br>
+<br>
+<br>
+
 
 The dataset was obtained from <a href="https://www.kaggle.com/datasets/adityakadiwal/water-potability/">here</a>
